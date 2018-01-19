@@ -1,7 +1,7 @@
 /*
-	Hielo by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+	SLG Project Managment Site
+	Proudly Desinged By C Cubed Web Development
+	webdev.ccubed.tech
 */
 
 var settings = {
