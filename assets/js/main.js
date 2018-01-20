@@ -16,7 +16,7 @@ var settings = {
 			speed: 1500,
 
 		// Transition delay (in ms)
-			delay: 7500,
+			delay: 5000,
 
 		// Parallax intensity (between 0 and 1; higher = more intense, lower = less intense; 0 = off)
 			parallax: 0.25
